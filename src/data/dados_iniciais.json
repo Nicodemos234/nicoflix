@@ -1,29 +1,29 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Videos Enviados",
+      "link": "http://youtube.com/nicodemos234/videos",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Vídeos enviados no youtube",
+        "url": "http://youtube.com/nicodemos234/videos"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "2 BOYS 1 BOAT",
+          "url": "https://www.youtube.com/watch?v=WzNle6aGEz8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "HAVOCADO - ACHEI QUE ERA GANGBEASTS?!",
+          "url": "https://www.youtube.com/watch?v=5sqUOqEGnYs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "GTA IV | BUGADÃO",
+          "url": "https://www.youtube.com/watch?v=pVP5-3KwJCg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "AS AVENTURAS DE UM MEXICANO E SEU COMPANHEIRO",
+          "url": "https://www.youtube.com/watch?v=mp9xcPZ5Wxs"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
